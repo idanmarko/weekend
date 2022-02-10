@@ -1,0 +1,30 @@
+C:\temp\מבחן\Q3 solution\Client_Server_ButtonLabel_Rectangle_Square\Common\Common\bin\Debug\Common.dll
+C:\temp\מבחן\Q3 solution\Client_Server_ButtonLabel_Rectangle_Square\Common\Common\bin\Debug\Common.pdb
+C:\temp\מבחן\Q3 solution\Client_Server_ButtonLabel_Rectangle_Square\Common\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\temp\מבחן\Q3 solution\Client_Server_ButtonLabel_Rectangle_Square\Common\Common\obj\Debug\Common.dll
+C:\temp\מבחן\Q3 solution\Client_Server_ButtonLabel_Rectangle_Square\Common\Common\obj\Debug\Common.pdb
+C:\temp\מבחן\Q3 question\Client_Server_ButtonLabel_Rectangle_Square\Common\Common\bin\Debug\Common.dll
+C:\temp\מבחן\Q3 question\Client_Server_ButtonLabel_Rectangle_Square\Common\Common\bin\Debug\Common.pdb
+C:\temp\מבחן\Q3 question\Client_Server_ButtonLabel_Rectangle_Square\Common\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\temp\מבחן\Q3 question\Client_Server_ButtonLabel_Rectangle_Square\Common\Common\obj\Debug\Common.dll
+C:\temp\מבחן\Q3 question\Client_Server_ButtonLabel_Rectangle_Square\Common\Common\obj\Debug\Common.pdb
+C:\temp\Moed A Free Version\Moed A Free Version\Client_Server_ButtonLabel_Rectangle_Square\Common\Common\bin\Debug\Common.dll
+C:\temp\Moed A Free Version\Moed A Free Version\Client_Server_ButtonLabel_Rectangle_Square\Common\Common\bin\Debug\Common.pdb
+C:\temp\Moed A Free Version\Moed A Free Version\Client_Server_ButtonLabel_Rectangle_Square\Common\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\temp\Moed A Free Version\Moed A Free Version\Client_Server_ButtonLabel_Rectangle_Square\Common\Common\obj\Debug\Common.dll
+C:\temp\Moed A Free Version\Moed A Free Version\Client_Server_ButtonLabel_Rectangle_Square\Common\Common\obj\Debug\Common.pdb
+C:\test C Sharp\work\Client_Server_ButtonLabel_Rectangle_Square\Common\Common\bin\Debug\Common.dll
+C:\test C Sharp\work\Client_Server_ButtonLabel_Rectangle_Square\Common\Common\bin\Debug\Common.pdb
+C:\test C Sharp\work\Client_Server_ButtonLabel_Rectangle_Square\Common\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\test C Sharp\work\Client_Server_ButtonLabel_Rectangle_Square\Common\Common\obj\Debug\Common.dll
+C:\test C Sharp\work\Client_Server_ButtonLabel_Rectangle_Square\Common\Common\obj\Debug\Common.pdb
+C:\test C Sharp\work\Question\Client_Server_ButtonLabel_Rectangle_Square\Common\Common\bin\Debug\Common.dll
+C:\test C Sharp\work\Question\Client_Server_ButtonLabel_Rectangle_Square\Common\Common\bin\Debug\Common.pdb
+C:\test C Sharp\work\Question\Client_Server_ButtonLabel_Rectangle_Square\Common\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\test C Sharp\work\Question\Client_Server_ButtonLabel_Rectangle_Square\Common\Common\obj\Debug\Common.dll
+C:\test C Sharp\work\Question\Client_Server_ButtonLabel_Rectangle_Square\Common\Common\obj\Debug\Common.pdb
+C:\Users\idko2009\Downloads\MoadA_Free_Version\Q3\Common\Common\bin\Debug\Common.dll
+C:\Users\idko2009\Downloads\MoadA_Free_Version\Q3\Common\Common\bin\Debug\Common.pdb
+C:\Users\idko2009\Downloads\MoadA_Free_Version\Q3\Common\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\idko2009\Downloads\MoadA_Free_Version\Q3\Common\Common\obj\Debug\Common.dll
+C:\Users\idko2009\Downloads\MoadA_Free_Version\Q3\Common\Common\obj\Debug\Common.pdb

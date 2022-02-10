@@ -1,0 +1,111 @@
+C:\temp\מבחן\Q3 solution\Client_Server_ButtonLabel_Rectangle_Square\Client\Client\bin\Debug\Client.exe.config
+C:\temp\מבחן\Q3 solution\Client_Server_ButtonLabel_Rectangle_Square\Client\Client\bin\Debug\Client.exe
+C:\temp\מבחן\Q3 solution\Client_Server_ButtonLabel_Rectangle_Square\Client\Client\bin\Debug\Client.pdb
+C:\temp\מבחן\Q3 solution\Client_Server_ButtonLabel_Rectangle_Square\Client\Client\bin\Debug\Common.dll
+C:\temp\מבחן\Q3 solution\Client_Server_ButtonLabel_Rectangle_Square\Client\Client\obj\Debug\Client.Form1.resources
+C:\temp\מבחן\Q3 solution\Client_Server_ButtonLabel_Rectangle_Square\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\temp\מבחן\Q3 solution\Client_Server_ButtonLabel_Rectangle_Square\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\temp\מבחן\Q3 solution\Client_Server_ButtonLabel_Rectangle_Square\Client\Client\obj\Debug\Client.exe
+C:\temp\מבחן\Q3 solution\Client_Server_ButtonLabel_Rectangle_Square\Client\Client\obj\Debug\Client.pdb
+C:\temp\מבחן\Q3 solution\Client_Server_ButtonLabel_Rectangle_Square\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\temp\מבחן\Q3 solution\Client_Server_ButtonLabel_Rectangle_Square\Client\Client\bin\Debug\Common.pdb
+C:\temp\מבחן\Q3 question\Client_Server_ButtonLabel_Rectangle_Square\Client\Client\bin\Debug\Client.exe.config
+C:\temp\מבחן\Q3 question\Client_Server_ButtonLabel_Rectangle_Square\Client\Client\obj\Debug\Client.exe
+C:\temp\מבחן\Q3 question\Client_Server_ButtonLabel_Rectangle_Square\Client\Client\obj\Debug\Client.pdb
+C:\temp\מבחן\Q3 question\Client_Server_ButtonLabel_Rectangle_Square\Client\Client\bin\Debug\Client.exe
+C:\temp\מבחן\Q3 question\Client_Server_ButtonLabel_Rectangle_Square\Client\Client\bin\Debug\Client.pdb
+C:\temp\מבחן\Q3 question\Client_Server_ButtonLabel_Rectangle_Square\Client\Client\bin\Debug\Common.dll
+C:\temp\מבחן\Q3 question\Client_Server_ButtonLabel_Rectangle_Square\Client\Client\bin\Debug\Common.pdb
+C:\temp\מבחן\Q3 question\Client_Server_ButtonLabel_Rectangle_Square\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\temp\מבחן\Q3 question\Client_Server_ButtonLabel_Rectangle_Square\Client\Client\obj\Debug\Client.Form1.resources
+C:\temp\מבחן\Q3 question\Client_Server_ButtonLabel_Rectangle_Square\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\temp\מבחן\Q3 question\Client_Server_ButtonLabel_Rectangle_Square\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\temp\מבחן\Moed A Free Version\Client_Server_ButtonLabel_Rectangle_Square\Client\Client\bin\Debug\Client.exe.config
+C:\temp\מבחן\Moed A Free Version\Client_Server_ButtonLabel_Rectangle_Square\Client\Client\obj\Debug\Client.exe
+C:\temp\מבחן\Moed A Free Version\Client_Server_ButtonLabel_Rectangle_Square\Client\Client\obj\Debug\Client.pdb
+C:\temp\מבחן\Moed A Free Version\Client_Server_ButtonLabel_Rectangle_Square\Client\Client\bin\Debug\Client.exe
+C:\temp\מבחן\Moed A Free Version\Client_Server_ButtonLabel_Rectangle_Square\Client\Client\bin\Debug\Client.pdb
+C:\temp\מבחן\Moed A Free Version\Client_Server_ButtonLabel_Rectangle_Square\Client\Client\bin\Debug\Common.dll
+C:\temp\מבחן\Moed A Free Version\Client_Server_ButtonLabel_Rectangle_Square\Client\Client\bin\Debug\Common.pdb
+C:\temp\מבחן\Moed A Free Version\Client_Server_ButtonLabel_Rectangle_Square\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\temp\מבחן\Moed A Free Version\Client_Server_ButtonLabel_Rectangle_Square\Client\Client\obj\Debug\Client.Form1.resources
+C:\temp\מבחן\Moed A Free Version\Client_Server_ButtonLabel_Rectangle_Square\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\temp\מבחן\Moed A Free Version\Client_Server_ButtonLabel_Rectangle_Square\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\temp\Moed A Free Version\Moed A Free Version\Client_Server_ButtonLabel_Rectangle_Square\Client\Client\bin\Debug\Client.exe.config
+C:\temp\Moed A Free Version\Moed A Free Version\Client_Server_ButtonLabel_Rectangle_Square\Client\Client\obj\Debug\Client.exe
+C:\temp\Moed A Free Version\Moed A Free Version\Client_Server_ButtonLabel_Rectangle_Square\Client\Client\obj\Debug\Client.pdb
+C:\temp\Moed A Free Version\Moed A Free Version\Client_Server_ButtonLabel_Rectangle_Square\Client\Client\bin\Debug\Client.exe
+C:\temp\Moed A Free Version\Moed A Free Version\Client_Server_ButtonLabel_Rectangle_Square\Client\Client\bin\Debug\Client.pdb
+C:\temp\Moed A Free Version\Moed A Free Version\Client_Server_ButtonLabel_Rectangle_Square\Client\Client\bin\Debug\Common.dll
+C:\temp\Moed A Free Version\Moed A Free Version\Client_Server_ButtonLabel_Rectangle_Square\Client\Client\bin\Debug\Common.pdb
+C:\temp\Moed A Free Version\Moed A Free Version\Client_Server_ButtonLabel_Rectangle_Square\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\temp\Moed A Free Version\Moed A Free Version\Client_Server_ButtonLabel_Rectangle_Square\Client\Client\obj\Debug\Client.Form1.resources
+C:\temp\Moed A Free Version\Moed A Free Version\Client_Server_ButtonLabel_Rectangle_Square\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\temp\Moed A Free Version\Moed A Free Version\Client_Server_ButtonLabel_Rectangle_Square\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\test C Sharp\work\Client_Server_ButtonLabel_Rectangle_Square\Client\Client\bin\Debug\Client.exe.config
+C:\test C Sharp\work\Client_Server_ButtonLabel_Rectangle_Square\Client\Client\obj\Debug\Client.exe
+C:\test C Sharp\work\Client_Server_ButtonLabel_Rectangle_Square\Client\Client\obj\Debug\Client.pdb
+C:\test C Sharp\work\Client_Server_ButtonLabel_Rectangle_Square\Client\Client\bin\Debug\Client.exe
+C:\test C Sharp\work\Client_Server_ButtonLabel_Rectangle_Square\Client\Client\bin\Debug\Client.pdb
+C:\test C Sharp\work\Client_Server_ButtonLabel_Rectangle_Square\Client\Client\bin\Debug\Common.dll
+C:\test C Sharp\work\Client_Server_ButtonLabel_Rectangle_Square\Client\Client\bin\Debug\Common.pdb
+C:\test C Sharp\work\Client_Server_ButtonLabel_Rectangle_Square\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\test C Sharp\work\Client_Server_ButtonLabel_Rectangle_Square\Client\Client\obj\Debug\Client.Form1.resources
+C:\test C Sharp\work\Client_Server_ButtonLabel_Rectangle_Square\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\test C Sharp\work\Client_Server_ButtonLabel_Rectangle_Square\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\test C Sharp\work\Question\Client_Server_ButtonLabel_Rectangle_Square\Client\Client\bin\Debug\Client.exe.config
+C:\test C Sharp\work\Question\Client_Server_ButtonLabel_Rectangle_Square\Client\Client\obj\Debug\Client.exe
+C:\test C Sharp\work\Question\Client_Server_ButtonLabel_Rectangle_Square\Client\Client\obj\Debug\Client.pdb
+C:\test C Sharp\work\Question\Client_Server_ButtonLabel_Rectangle_Square\Client\Client\bin\Debug\Client.exe
+C:\test C Sharp\work\Question\Client_Server_ButtonLabel_Rectangle_Square\Client\Client\bin\Debug\Client.pdb
+C:\test C Sharp\work\Question\Client_Server_ButtonLabel_Rectangle_Square\Client\Client\bin\Debug\Common.dll
+C:\test C Sharp\work\Question\Client_Server_ButtonLabel_Rectangle_Square\Client\Client\bin\Debug\Common.pdb
+C:\test C Sharp\work\Question\Client_Server_ButtonLabel_Rectangle_Square\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\test C Sharp\work\Question\Client_Server_ButtonLabel_Rectangle_Square\Client\Client\obj\Debug\Client.Form1.resources
+C:\test C Sharp\work\Question\Client_Server_ButtonLabel_Rectangle_Square\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\test C Sharp\work\Question\Client_Server_ButtonLabel_Rectangle_Square\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\test C Sharp\check final test\final test for Rabi\projects\Q3\Client\Client\bin\Debug\Client.exe.config
+C:\test C Sharp\check final test\final test for Rabi\projects\Q3\Client\Client\obj\Debug\Client.exe
+C:\test C Sharp\check final test\final test for Rabi\projects\Q3\Client\Client\obj\Debug\Client.pdb
+C:\test C Sharp\check final test\final test for Rabi\projects\Q3\Client\Client\bin\Debug\Client.exe
+C:\test C Sharp\check final test\final test for Rabi\projects\Q3\Client\Client\bin\Debug\Client.pdb
+C:\test C Sharp\check final test\final test for Rabi\projects\Q3\Client\Client\bin\Debug\Common.dll
+C:\test C Sharp\check final test\final test for Rabi\projects\Q3\Client\Client\bin\Debug\Common.pdb
+C:\test C Sharp\check final test\final test for Rabi\projects\Q3\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\test C Sharp\check final test\final test for Rabi\projects\Q3\Client\Client\obj\Debug\Client.Form1.resources
+C:\test C Sharp\check final test\final test for Rabi\projects\Q3\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\test C Sharp\check final test\final test for Rabi\projects\Q3\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\rrabi\Desktop\personal\Netanya\VC#\final test for Rabi\final test for Rabi\projects\Q3\Client\Client\bin\Debug\Client.exe.config
+C:\Users\rrabi\Desktop\personal\Netanya\VC#\final test for Rabi\final test for Rabi\projects\Q3\Client\Client\obj\Debug\Client.exe
+C:\Users\rrabi\Desktop\personal\Netanya\VC#\final test for Rabi\final test for Rabi\projects\Q3\Client\Client\obj\Debug\Client.pdb
+C:\Users\rrabi\Desktop\personal\Netanya\VC#\final test for Rabi\final test for Rabi\projects\Q3\Client\Client\bin\Debug\Client.exe
+C:\Users\rrabi\Desktop\personal\Netanya\VC#\final test for Rabi\final test for Rabi\projects\Q3\Client\Client\bin\Debug\Client.pdb
+C:\Users\rrabi\Desktop\personal\Netanya\VC#\final test for Rabi\final test for Rabi\projects\Q3\Client\Client\bin\Debug\Common.dll
+C:\Users\rrabi\Desktop\personal\Netanya\VC#\final test for Rabi\final test for Rabi\projects\Q3\Client\Client\bin\Debug\Common.pdb
+C:\Users\rrabi\Desktop\personal\Netanya\VC#\final test for Rabi\final test for Rabi\projects\Q3\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\rrabi\Desktop\personal\Netanya\VC#\final test for Rabi\final test for Rabi\projects\Q3\Client\Client\obj\Debug\Client.Form1.resources
+C:\Users\rrabi\Desktop\personal\Netanya\VC#\final test for Rabi\final test for Rabi\projects\Q3\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\rrabi\Desktop\personal\Netanya\VC#\final test for Rabi\final test for Rabi\projects\Q3\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\rrabi\Desktop\personal\Netanya\VC#\final_exam\s\MoadA_Free_Version\Q3\Client\Client\bin\Debug\Client.exe.config
+C:\Users\rrabi\Desktop\personal\Netanya\VC#\final_exam\s\MoadA_Free_Version\Q3\Client\Client\obj\Debug\Client.exe
+C:\Users\rrabi\Desktop\personal\Netanya\VC#\final_exam\s\MoadA_Free_Version\Q3\Client\Client\obj\Debug\Client.pdb
+C:\Users\rrabi\Desktop\personal\Netanya\VC#\final_exam\s\MoadA_Free_Version\Q3\Client\Client\bin\Debug\Client.exe
+C:\Users\rrabi\Desktop\personal\Netanya\VC#\final_exam\s\MoadA_Free_Version\Q3\Client\Client\bin\Debug\Client.pdb
+C:\Users\rrabi\Desktop\personal\Netanya\VC#\final_exam\s\MoadA_Free_Version\Q3\Client\Client\bin\Debug\Common.dll
+C:\Users\rrabi\Desktop\personal\Netanya\VC#\final_exam\s\MoadA_Free_Version\Q3\Client\Client\bin\Debug\Common.pdb
+C:\Users\rrabi\Desktop\personal\Netanya\VC#\final_exam\s\MoadA_Free_Version\Q3\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\rrabi\Desktop\personal\Netanya\VC#\final_exam\s\MoadA_Free_Version\Q3\Client\Client\obj\Debug\Client.Form1.resources
+C:\Users\rrabi\Desktop\personal\Netanya\VC#\final_exam\s\MoadA_Free_Version\Q3\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\rrabi\Desktop\personal\Netanya\VC#\final_exam\s\MoadA_Free_Version\Q3\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\idko2009\Downloads\MoadA_Free_Version\Q3\Client\Client\bin\Debug\Client.exe.config
+C:\Users\idko2009\Downloads\MoadA_Free_Version\Q3\Client\Client\bin\Debug\Client.exe
+C:\Users\idko2009\Downloads\MoadA_Free_Version\Q3\Client\Client\bin\Debug\Client.pdb
+C:\Users\idko2009\Downloads\MoadA_Free_Version\Q3\Client\Client\bin\Debug\Common.dll
+C:\Users\idko2009\Downloads\MoadA_Free_Version\Q3\Client\Client\bin\Debug\Common.pdb
+C:\Users\idko2009\Downloads\MoadA_Free_Version\Q3\Client\Client\obj\Debug\Client.Form1.resources
+C:\Users\idko2009\Downloads\MoadA_Free_Version\Q3\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\idko2009\Downloads\MoadA_Free_Version\Q3\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\idko2009\Downloads\MoadA_Free_Version\Q3\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\idko2009\Downloads\MoadA_Free_Version\Q3\Client\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\idko2009\Downloads\MoadA_Free_Version\Q3\Client\Client\obj\Debug\Client.exe
+C:\Users\idko2009\Downloads\MoadA_Free_Version\Q3\Client\Client\obj\Debug\Client.pdb
